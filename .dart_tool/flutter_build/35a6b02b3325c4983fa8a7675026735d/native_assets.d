@@ -1,0 +1,1 @@
+ D:\\Smart_Diary\\.dart_tool\\flutter_build\\35a6b02b3325c4983fa8a7675026735d\\native_assets.yaml: 
